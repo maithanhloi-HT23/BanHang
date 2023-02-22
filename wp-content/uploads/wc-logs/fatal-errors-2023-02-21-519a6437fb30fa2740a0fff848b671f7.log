@@ -1,0 +1,4 @@
+2023-02-21T14:30:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\BanHang\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutOrderSummarySubtotalBlock.php on line 15
+
+2023-02-21T15:04:04+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 20480 bytes) in E:\xampp\htdocs\BanHang\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-controller.php on line 159
+
